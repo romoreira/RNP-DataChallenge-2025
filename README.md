@@ -17,3 +17,4 @@
 * SVDD_TEST24.py: 85.47 F1
 * SVDD_TEST25.py: 85.73 F1
 * SVDD_TEST25.py: 85.74 F1 (best features)
+* SVDD_TEST28.py: 85.83 F1
