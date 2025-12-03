@@ -1,0 +1,13 @@
+UserKnownHostsFile /dev/null
+StrictHostKeyChecking no
+ServerAliveInterval 120 
+
+Host bastion.fabric-testbed.net
+     User rodrigo_0000140592
+     ForwardAgent yes
+     Hostname %h
+     IdentityFile bastion_keypair_private
+     IdentitiesOnly yes
+
+Host * !bastion.fabric-testbed.net
+     ProxyJump rodrigo_0000140592@bastion.fabric-testbed.net:22
