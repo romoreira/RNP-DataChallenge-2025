@@ -1,5 +1,3 @@
-Desculpa, você tem razão, eu não segui o seu pedido do jeito certo, abaixo vai um README.md pronto, em inglês do Reino Unido, e toda a resposta está em um único bloco para você copiar uma vez só.
-
 # TRACE, Traceroute based Internet Route Change Analysis with Ensemble Learning 🌐📈
 
 This repository contains the source code and scripts used in our study, **TRACE, Traceroute based Internet Route change Analysis with Ensemble Learning**.
